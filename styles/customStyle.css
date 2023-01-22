@@ -1,0 +1,21 @@
+button {
+    margin: 5px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.checkBox{
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    margin: 50px;
+}
