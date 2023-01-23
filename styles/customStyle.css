@@ -1,11 +1,15 @@
 button {
+    padding: 5px;
     margin: 5px;
     transition-duration: 0.4s;
+    background-color: black;
+    color: white;
+    border: none;
 }
 
 button:hover {
-    background-color: black;
-    color: white;
+    background-color: greenyellow;
+    color: black;
 }
 
 .checkBox{
@@ -18,4 +22,5 @@ ul {
 
 body {
     margin: 50px;
+    background: lightgray;
 }
