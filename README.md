@@ -1,6 +1,6 @@
 ## Todo-app created via nextjs 13, (App directory version).
 
-Completed using Typescript
+Created using **Typescript**
 
 Deployed to VERCEL, url is
 
