@@ -8,7 +8,12 @@ export default function RootLayout({
   return (
     <html>
       <head />
-      <body>{children}</body>
+      <body>
+        <div>
+          <h1>Mk's Todo App</h1>
+        </div>
+        <div>{children}</div>
+      </body>
     </html>
   );
 }
